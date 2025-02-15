@@ -1,4 +1,4 @@
-# go-playground
+# Go Playground
 
 Playground for trying out Go
 
